@@ -1,7 +1,5 @@
 # 🌟 Awesome AI Resources
 
-A curated list of free and useful AI resources for learners and developers.
-
 ## 📘 Beginner-Friendly Courses
 - [Intro to Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
 - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
@@ -18,4 +16,4 @@ A curated list of free and useful AI resources for learners and developers.
 - [Distill.pub](https://distill.pub/)
 - [Andrej Karpathy Blog](http://karpathy.github.io/)
 
-*Last updated: September 1, 2025*
+*Last updated: September 2, 2025*
