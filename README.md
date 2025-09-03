@@ -11,6 +11,7 @@
 ## 🎥 YouTube Channels
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
 - [StatQuest](https://www.youtube.com/user/joshstarmer)
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
 
 ## 🧠 Blogs & Articles
 - [Distill.pub](https://distill.pub/)
