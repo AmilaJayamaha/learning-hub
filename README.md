@@ -17,4 +17,4 @@
 - [Distill.pub](https://distill.pub/)
 - [Andrej Karpathy Blog](http://karpathy.github.io/)
 
-*Last updated: September 2, 2025*
+*Last updated: September 4, 2025*
