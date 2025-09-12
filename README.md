@@ -18,4 +18,4 @@
 - [Andrej Karpathy Blog](http://karpathy.github.io/)
 - https://blog.codinghorror.com/
 
-*Last updated: September 11, 2025*
+*Last updated: September 12, 2025*
